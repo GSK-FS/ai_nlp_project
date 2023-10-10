@@ -41,7 +41,7 @@ Replace venv with the desired name for your virtual environment.
 
 Activate the Virtual Environment: After creating the virtual environment, activate it using the appropriate command:
 
-shell
+# shell
     source venv/bin/activate
 
 Now, you're ready to run your project within the virtual environment, and the required dependencies are installed.
